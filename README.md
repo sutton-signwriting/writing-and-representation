@@ -33,26 +33,22 @@ The series explains how SignWriting works as writing, how authored space functio
 
 Begin with:
 
-1. [Writing and Representation in Sutton SignWriting Overview](entries/overview/essay.md)
-2. [Plane-Based Writing and Script Typology](entries/plane-based-writing-and-script-typology/essay.md)
+1. [Writing and Representation in Sutton SignWriting Overview](entries/overview/essay.md) - public overview for the writing-systems sequence
+2. [Plane-Based Writing and Script Typology](entries/plane-based-writing-and-script-typology/essay.md) - typological anchor paper
    - optional support: [Point, Line, and Plane Evidence Notes](entries/plane-based-writing-and-script-typology/point-line-plane-evidence-notes.md)
-3. [Perspective and Authored Space](entries/perspective-and-authored-space/essay.md)
-4. [Iconicity, Convention, and Legibility](entries/iconicity-convention-and-legibility/essay.md)
-5. [Handwriting and Spatial Script Practice](entries/handwriting-and-spatial-script-practice/essay.md)
-6. [Human Writing and Machine Encoding](entries/human-writing-and-machine-encoding/essay.md)
-7. [Kinematography and the Limits of Writing-System Typology](entries/kinematography-and-the-limits-of-writing-system-typology/essay.md)
+3. [Perspective and Authored Space](entries/perspective-and-authored-space/essay.md) - viewpoint, relation, and composed space
+4. [Iconicity, Convention, and Legibility](entries/iconicity-convention-and-legibility/essay.md) - motivated visual form as disciplined writing
+5. [Handwriting and Spatial Script Practice](entries/handwriting-and-spatial-script-practice/essay.md) - human material practice
+6. [Human Writing and Machine Encoding](entries/human-writing-and-machine-encoding/essay.md) - authorship, serialization, and text layers
+7. [Kinematography and the Limits of Writing-System Typology](entries/kinematography-and-the-limits-of-writing-system-typology/essay.md) - theory capstone
 
-## Contents
+## Repository Files
 
-- [Writing and Representation in Sutton SignWriting Overview](entries/overview/essay.md) - public overview for the writing-systems sequence
-- [Plane-Based Writing and Script Typology](entries/plane-based-writing-and-script-typology/essay.md) - typological anchor paper
+The reading sequence above contains the main series documents. Additional repository files include:
+
 - [Point, Line, and Plane Evidence Notes](entries/plane-based-writing-and-script-typology/point-line-plane-evidence-notes.md) - companion bridge note for the point-line-plane argument
-- [Perspective and Authored Space](entries/perspective-and-authored-space/essay.md) - viewpoint, relation, and composed space
-- [Iconicity, Convention, and Legibility](entries/iconicity-convention-and-legibility/essay.md) - motivated visual form as disciplined writing
-- [Handwriting and Spatial Script Practice](entries/handwriting-and-spatial-script-practice/essay.md) - human material practice
-- [Human Writing and Machine Encoding](entries/human-writing-and-machine-encoding/essay.md) - authorship, serialization, and text layers
-- [Kinematography and the Limits of Writing-System Typology](entries/kinematography-and-the-limits-of-writing-system-typology/essay.md) - theory capstone
 - [Other Sign Language Scripts and Their Conceptions](entries/other-sign-language-scripts-and-their-conceptions/essay.md) - comparative support essay
+- [Review Synthesis](review.md) - post-publication review notes for the series
 - [Publishing Notes](publishing.md) - release metadata, citation posture, and artifact register
 
 ## Citation
