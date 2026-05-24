@@ -46,9 +46,7 @@ Begin with:
 
 The reading sequence above contains the main series documents. Additional repository files include:
 
-- [Point, Line, and Plane Evidence Notes](entries/plane-based-writing-and-script-typology/point-line-plane-evidence-notes.md) - companion bridge note for the point-line-plane argument
 - [Other Sign Language Scripts and Their Conceptions](entries/other-sign-language-scripts-and-their-conceptions/essay.md) - comparative support essay
-- [Review Synthesis](review.md) - post-publication review notes for the series
 - [Publishing Notes](publishing.md) - release metadata, citation posture, and artifact register
 
 ## Citation
